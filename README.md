@@ -89,7 +89,7 @@ flxrun example.flx
 Or run the engine directly:
 
 ```powershell
-py engine.py example.flx
+py engine.py C:path\to\the\script
 ```
 
 Replace `example.flx` with the path to your own FlexLang script.
