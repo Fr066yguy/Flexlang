@@ -1,4 +1,0 @@
-say "Hello from helper.flx!"
-
-create bonus set 32
-create player set "FlexLang"
