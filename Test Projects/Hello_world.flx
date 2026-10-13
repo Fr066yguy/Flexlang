@@ -1,0 +1,2 @@
+say "Hello World"
+color bright_green "Hello World"
